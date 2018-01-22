@@ -1,0 +1,1 @@
+dotnet restore && dotnet electronize init && dotnet electronize start

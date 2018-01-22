@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using UseElectron;
+using ElectronNET.API;
 
 namespace Chross
 {
@@ -18,7 +18,7 @@ namespace Chross
             BuildWebHost(args).Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) 
+        public static IWebHost BuildWebHost(string[] args)
         {
             return WebHost.CreateDefaultBuilder(args)
                 .UseElectron(args)
