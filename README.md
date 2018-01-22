@@ -1,4 +1,4 @@
-##Chross##
+## Chross ##
 
-#A(nother) cross-platform web browser!#
+# A(nother) cross-platform web browser! #
 
