@@ -1,0 +1,14 @@
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\electron.manifest.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.exe
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.deps.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.runtimeconfig.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.runtimeconfig.dev.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\win-x64\Accelanet.pdb
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\win-x64\Accelanet.csproj.CoreCompileInputs.cache
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\win-x64\Accelanet.AssemblyInfoInputs.cache
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\win-x64\Accelanet.AssemblyInfo.cs
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\win-x64\Accelanet.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\win-x64\Accelanet.pdb

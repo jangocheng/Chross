@@ -1,0 +1,12 @@
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\Accelanet.deps.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\Accelanet.runtimeconfig.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\Accelanet.runtimeconfig.dev.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\Accelanet.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.csprojResolveAssemblyReference.cache
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.csproj.CoreCompileInputs.cache
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.AssemblyInfoInputs.cache
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.AssemblyInfo.cs
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\electron.manifest.json
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\bin\Debug\netcoreapp2.0\Accelanet.pdb
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.dll
+C:\Users\maacp\Desktop\Chross\Accelanet\Accelanet\obj\Debug\netcoreapp2.0\Accelanet.pdb

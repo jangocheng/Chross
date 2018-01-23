@@ -1,1 +1,1 @@
-dotnet restore && dotnet electronize init && dotnet electronize start
+cd Accelanet && cd Accelanet && dotnet restore && dotnet electronize init && dotnet electronize start
